@@ -7,7 +7,7 @@
 
 - Structured Inference Networks for Nonlinear State Space Models，AAAI 2017 [[PDF](https://arxiv.org/abs/1609.09869)] [Code]
 
-- Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series，AAAI 2020 [[PDF [Code]
+- Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series，AAAI 2020 [[PDF](https://arxiv.org/abs/1905.13570)] [Code]
 
 - Multi-period Time Series Modeling with Sparsity via Bayesian Variational Inference，2017 [[PDF](https://arxiv.org/abs/1707.00666)] [Code]
 
