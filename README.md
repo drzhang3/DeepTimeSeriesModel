@@ -53,8 +53,7 @@
 - Modeling Combinatorial Evolution in Time Series Prediction，2019 [[PDF](https://arxiv.org/abs/1905.05006v1)] [[Code](https://github.com/VachelHU/ESGRN )]
 - SOM-VAE: Interpretable Discrete Representation Learning on Time Series，ICLR 2019 [[PDF](https://arxiv.org/abs/1806.02199)] [[Code](https://github.com/ratschlab/SOM-VAE)]
 - Variational PSOM: Deep Probabilistic Clustering with Self-Organizing Maps，2019 [[PDF](https://arxiv.org/abs/1910.01590)] [[Code](https://github.com/ratschlab/variational-psom)]
-- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets， AAAI 2020 [[PDF](https://arxiv.org/abs/1911.04143)] [[Code](https://github.com/
-  AnonyAuthor/Time2Graph)]
+- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets， AAAI 2020 [[PDF](https://arxiv.org/abs/1911.04143)] [[Code](https://github.com/AnonyAuthor/Time2Graph)]
 
 
 
