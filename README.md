@@ -1,5 +1,5 @@
 # PaperList
-#### Time Series Model
+### Time Series Model
 
 - A recurrent latent variable model for sequential data，NIPS 2015 [[PDF](https://arxiv.org/abs/1506.02216)] [[Code](http://www.github.com/jych/nips2015_vrnn)]
 
@@ -11,13 +11,13 @@
 
 - Multi-period Time Series Modeling with Sparsity via Bayesian Variational Inference，2017 [[PDF](https://arxiv.org/abs/1707.00666)] [Code]
 
-#### Time series decomposition
+### Time series decomposition
 
 - RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series，AAAI 2019 [[PDF](https://arxiv.org/abs/1812.01767)] [Code]
 - RobustTrend: A Huber Loss with a Combined First and Second Order Difference
   Regularization for Time Series Trend Filtering，IJCAI 2019 [[PDF](https://arxiv.org/abs/1906.03751)] [Code]
 
-#### Prediction
+### Prediction
 
 - A Multi-Horizon Quantile Recurrent Forecaster，NIPS 2017 [[PDF](https://arxiv.org/abs/1711.11053)] [[Code](https://github.com/jingw2/demand_forecast)]
 - DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks，2017 [[PDF](https://arxiv.org/abs/1704.04110)] [[Code](https://github.com/jingw2/demand_forecast)]
@@ -29,7 +29,7 @@
 - Explainable Deep Neural Networks for Multivariate Time Series Predictions，IJCAI 2019 [[PDF](https://www.ijcai.org/proceedings/2019/0932.pdf)] [Code]
 - Modeling Extreme Events in Time Series Prediction，KDD 2018 [[PDF](http://staff.ustc.edu.cn/~hexn/papers/kdd19-timeseries.pdf)] [Code]
 
-#### Anomaly Detection
+### Anomaly Detection
 
 - LSTM-based encoder-decoder for multi-sensor anomaly detection，2016 [[PDF](https://arxiv.org/abs/1607.00148)] [Code]
 
@@ -48,11 +48,13 @@
 - Unsupervised Anomaly Detection for Intricate KPIs via Adversarial Training of VAE，INFOCOM 2019 [[PDF](https://ieeexplore.ieee.org/abstract/document/8737430/)] [[Code](https://github.com/yantijin/Buzz)]
 - Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications，WWW 2018 [[PDF](https://arxiv.org/pdf/1802.03903.pdf)] [[Code](https://github.com/haowen-xu/donut)]
 
-#### Others
+### Others
 
 - Modeling Combinatorial Evolution in Time Series Prediction，2019 [[PDF](https://arxiv.org/abs/1905.05006v1)] [[Code](https://github.com/VachelHU/ESGRN )]
 - SOM-VAE: Interpretable Discrete Representation Learning on Time Series，ICLR 2019 [[PDF](https://arxiv.org/abs/1806.02199)] [[Code](https://github.com/ratschlab/SOM-VAE)]
 - Variational PSOM: Deep Probabilistic Clustering with Self-Organizing Maps，2019 [[PDF](https://arxiv.org/abs/1910.01590)] [[Code](https://github.com/ratschlab/variational-psom)]
+- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets， AAAI 2020 [[PDF](https://arxiv.org/abs/1911.04143)] [[Code](https://github.com/
+  AnonyAuthor/Time2Graph)]
 
 
 
