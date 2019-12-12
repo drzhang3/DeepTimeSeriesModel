@@ -2,14 +2,11 @@
 ### Time Series Model
 
 - A recurrent latent variable model for sequential data，NIPS 2015 [[PDF](https://arxiv.org/abs/1506.02216)] [[Code](http://www.github.com/jych/nips2015_vrnn)]
-
 - Sequential neural models with stochastic layers，NIPS 2016 [[PDF](https://arxiv.org/abs/1605.07571)] [[Code](http://www.github.com/marcofraccaro/srnn)]
-
 - Structured Inference Networks for Nonlinear State Space Models，AAAI 2017 [[PDF](https://arxiv.org/abs/1609.09869)] [Code]
-
 - Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series，AAAI 2020 [[PDF](https://arxiv.org/abs/1905.13570)] [Code]
-
 - Multi-period Time Series Modeling with Sparsity via Bayesian Variational Inference，2017 [[PDF](https://arxiv.org/abs/1707.00666)] [Code]
+- Unsupervised Scalable Representation Learning for Multivariate Time Series，NeurIPS 2019 [[PDF](https://arxiv.org/pdf/1901.10738.pdf)] [[Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)]
 
 ### Time series decomposition
 
@@ -28,6 +25,7 @@
 - Deep State Space Models for Time Series Forecasting，NeurIPS 2018 [[PDF](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting)] [Code]
 - Explainable Deep Neural Networks for Multivariate Time Series Predictions，IJCAI 2019 [[PDF](https://www.ijcai.org/proceedings/2019/0932.pdf)] [Code]
 - Modeling Extreme Events in Time Series Prediction，KDD 2018 [[PDF](http://staff.ustc.edu.cn/~hexn/papers/kdd19-timeseries.pdf)] [Code]
+- Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting，IJCAI 2019 [[PDF](https://www.ijcai.org/proceedings/2019/0402.pdf)] [Code]
 
 ### Anomaly Detection
 
