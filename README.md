@@ -30,7 +30,6 @@
 ### Anomaly Detection
 
 - LSTM-based encoder-decoder for multi-sensor anomaly detection，2016 [[PDF](https://arxiv.org/abs/1607.00148)] [Code]
-
 - Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network，KDD 2019 [[PDF](http://delivery.acm.org/10.1145/3340000/3330672/p2828-su.pdf?ip=114.247.56.234&id=3330672&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EC98212438850C910%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575979585_4370ce04b0d7150ccbd1381b781f594e)] [[Code](https://github.com/smallcowbaby/OmniAnomaly)]
 - Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding，KDD 2018 [[PDF](https://arxiv.org/abs/1802.04431)] [[Code](https://github.com/khundman/telemanom)]
 - A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data，AAAI 2019 [[PDF](https://arxiv.org/abs/1811.08055)] [[Code](https://github.com/7fantasysz/MSCRED)]
@@ -51,7 +50,8 @@
 - Modeling Combinatorial Evolution in Time Series Prediction，2019 [[PDF](https://arxiv.org/abs/1905.05006v1)] [[Code](https://github.com/VachelHU/ESGRN )]
 - SOM-VAE: Interpretable Discrete Representation Learning on Time Series，ICLR 2019 [[PDF](https://arxiv.org/abs/1806.02199)] [[Code](https://github.com/ratschlab/SOM-VAE)]
 - Variational PSOM: Deep Probabilistic Clustering with Self-Organizing Maps，2019 [[PDF](https://arxiv.org/abs/1910.01590)] [[Code](https://github.com/ratschlab/variational-psom)]
-- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets， AAAI 2020 [[PDF](https://arxiv.org/abs/1911.04143)] [[Code](https://github.com/AnonyAuthor/Time2Graph)]
+- Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets，AAAI 2020 [[PDF](https://arxiv.org/abs/1911.04143)] [[Code](https://github.com/AnonyAuthor/Time2Graph)]
+- Multivariate Time Series Imputation with Variational Autoencoders，2019 [[PDF](https://arxiv.org/abs/1907.04155)] [Code]
 
 
 
