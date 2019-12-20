@@ -26,6 +26,8 @@
 - Explainable Deep Neural Networks for Multivariate Time Series Predictions，IJCAI 2019 [[PDF](https://www.ijcai.org/proceedings/2019/0932.pdf)] [Code]
 - Modeling Extreme Events in Time Series Prediction，KDD 2018 [[PDF](http://staff.ustc.edu.cn/~hexn/papers/kdd19-timeseries.pdf)] [Code]
 - Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting，IJCAI 2019 [[PDF](https://www.ijcai.org/proceedings/2019/0402.pdf)] [Code]
+- Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models，NeurIPS 2019 [[PDF](https://arxiv.org/pdf/1909.09020.pdf)] [Code]
+- Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting，NeurIPS 2019 [[PDF](https://arxiv.org/pdf/1907.00235.pdf)] [Code]
 
 ### Anomaly Detection
 
