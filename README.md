@@ -19,7 +19,6 @@
 - A Multi-Horizon Quantile Recurrent Forecaster，NIPS 2017 [[PDF](https://arxiv.org/abs/1711.11053)] [[Code](https://github.com/jingw2/demand_forecast)]
 - DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks，2017 [[PDF](https://arxiv.org/abs/1704.04110)] [[Code](https://github.com/jingw2/demand_forecast)]
 - Deep Factors for Forecasting，ICML 2019 [[PDF](https://arxiv.org/abs/1905.12417)] [[Code](https://github.com/jingw2/demand_forecast)]
-- Anomaly Detection in Streams with Extreme Value Theory，KDD 2017 [[PDF](https://www.kdd.org/kdd2017/papers/view/anomaly-detection-in-streams-with-extreme-value-theory)] [Code]
 - A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction，IJCAI 2017 [[PDF](https://arxiv.org/abs/1704.02971)] [Code]
 - Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis，KDD 2018 [[PDF](https://arxiv.org/abs/1806.08946)] [[Code](https://github.com/JacobWang95/mWDN)]
 - Deep State Space Models for Time Series Forecasting，NeurIPS 2018 [[PDF](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting)] [Code]
@@ -30,7 +29,7 @@
 ### Anomaly Detection
 
 - LSTM-based encoder-decoder for multi-sensor anomaly detection，2016 [[PDF](https://arxiv.org/abs/1607.00148)] [Code]
-
+- Anomaly Detection in Streams with Extreme Value Theory，KDD 2017 [[PDF](https://www.kdd.org/kdd2017/papers/view/anomaly-detection-in-streams-with-extreme-value-theory)] [Code]
 - Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network，KDD 2019 [[PDF](http://delivery.acm.org/10.1145/3340000/3330672/p2828-su.pdf?ip=114.247.56.234&id=3330672&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EC98212438850C910%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575979585_4370ce04b0d7150ccbd1381b781f594e)] [[Code](https://github.com/smallcowbaby/OmniAnomaly)]
 - Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding，KDD 2018 [[PDF](https://arxiv.org/abs/1802.04431)] [[Code](https://github.com/khundman/telemanom)]
 - A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data，AAAI 2019 [[PDF](https://arxiv.org/abs/1811.08055)] [[Code](https://github.com/7fantasysz/MSCRED)]
