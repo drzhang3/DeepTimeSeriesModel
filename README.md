@@ -1,6 +1,7 @@
 # PaperList
 ### Time Series Model
 
+
 - A recurrent latent variable model for sequential data，NIPS 2015 [[PDF](https://arxiv.org/abs/1506.02216)] [[Code](http://www.github.com/jych/nips2015_vrnn)]
 - Sequential neural models with stochastic layers，NIPS 2016 [[PDF](https://arxiv.org/abs/1605.07571)] [[Code](http://www.github.com/marcofraccaro/srnn)]
 - Structured Inference Networks for Nonlinear State Space Models，AAAI 2017 [[PDF](https://arxiv.org/abs/1609.09869)] [Code]
